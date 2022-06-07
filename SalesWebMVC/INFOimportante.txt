@@ -1,0 +1,5 @@
+﻿Lembrar de rodar o Entity com migrate e depois update pra criar o banco usando sql server, 
+classes e contexto certas aqui já
+
+se for usar mysql, pesquisar as partes com sqlserver aqui e só mudar pra mysql, na string
+de conexão mudar também pra configuração de mysql
